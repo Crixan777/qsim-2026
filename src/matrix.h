@@ -1,6 +1,5 @@
 #ifndef MATRIX_H
 #define MATRIX_H
-
 #include "complex.h"
 
 // Struttura che rappresenta una matrice di numeri complessi
