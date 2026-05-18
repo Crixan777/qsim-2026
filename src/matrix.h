@@ -16,8 +16,8 @@ typedef struct {
 
 } Matrix;
 
-// rows -> numero righe
-// cols -> numero colonne
+// rows = numero righe
+// cols = numero colonne
 Matrix *create_matrix(int rows, int cols);
 
 // Libera tutta la memoria associata alla matrice
