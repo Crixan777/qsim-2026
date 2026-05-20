@@ -10,4 +10,9 @@ int parse_qubits(char *filename);
 Complex *parse_init_state(char *filename,
                           int qubits);
 
+
+// Legge lo stato iniziale dal file .init
+Complex *parse_init_state(char *filename,
+                          int qubits);
+
 #endif
